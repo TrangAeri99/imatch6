@@ -1,6 +1,4 @@
-# YouTube Video: Next.js 10 Internationalization (i18n)
 
-Watch here: https://www.youtube.com/watch?v=Rbi52ZYtVKM
 
 <hr />
 
